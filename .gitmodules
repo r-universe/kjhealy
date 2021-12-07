@@ -1,5 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kjhealy/universe
 	shallow = true
 	branch = HEAD
+[submodule "socviz"]
+	path = socviz
+	url = https://github.com/kjhealy/socviz
+	shallow = true
+	registered = true
+[submodule "covdata"]
+	path = covdata
+	url = https://github.com/kjhealy/covdata
+	shallow = true
+	registered = true
+[submodule "nycdogs"]
+	path = nycdogs
+	url = https://github.com/kjhealy/nycdogs
+	shallow = true
+	registered = true
+[submodule "gssr"]
+	path = gssr
+	url = https://github.com/kjhealy/gssr
+	shallow = true
+	registered = true
+[submodule "uscenpops"]
+	path = uscenpops
+	url = https://github.com/kjhealy/uscenpops
+	shallow = true
+	registered = true
+[submodule "covmobility"]
+	path = covmobility
+	url = https://github.com/kjhealy/covmobility
+	shallow = true
+	registered = true

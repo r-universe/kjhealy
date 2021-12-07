@@ -1,0 +1,21 @@
+[
+  {
+    "package": "socviz",
+    "oncran": true
+  },
+  {
+    "package": "covdata"
+  },
+  {
+    "package": "nycdogs"
+  },
+  {
+    "package": "gssr"
+  },
+  {
+    "package": "uscenpops"
+  },
+  {
+    "package": "covmobility"
+  }
+]

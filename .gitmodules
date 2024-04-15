@@ -7,7 +7,10 @@
 	url = https://github.com/kjhealy/covdata
 [submodule "gssr"]
 	path = gssr
-	url = https://github.com/kjhealy/gssr
+	url = https://github.com/kjhealy/gssr/tree/nodocs
+[submodule "gssrdoc"]
+	path = gssrdoc
+	url = https://github.com/kjhealy/gssrdoc
 [submodule "nycdogs"]
 	path = nycdogs
 	url = https://github.com/kjhealy/nycdogs

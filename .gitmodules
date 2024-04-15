@@ -7,7 +7,7 @@
 	url = https://github.com/kjhealy/covdata
 [submodule "gssr"]
 	path = gssr
-	url = https://github.com/kjhealy/gssr/tree/nodocs
+	url = https://github.com/kjhealy/gssr
 [submodule "gssrdoc"]
 	path = gssrdoc
 	url = https://github.com/kjhealy/gssrdoc

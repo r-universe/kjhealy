@@ -14,6 +14,10 @@
 [submodule "nycdogs"]
 	path = nycdogs
 	url = https://github.com/kjhealy/nycdogs
+[submodule "nyczips"]
+	path = nyczips
+	url = https://github.com/kjhealy/nyczips
+	registered = false
 [submodule "socviz"]
 	path = socviz
 	url = https://github.com/kjhealy/socviz

@@ -11,9 +11,27 @@
 [submodule "gssrdoc"]
 	path = gssrdoc
 	url = https://github.com/kjhealy/gssrdoc
+[submodule "nycbuildxwalks"]
+	path = nycbuildxwalks
+	url = https://github.com/kjhealy/nycbuildxwalks
+[submodule "nycdcm"]
+	path = nycdcm
+	url = https://github.com/kjhealy/nycdcm
 [submodule "nycdogs"]
 	path = nycdogs
 	url = https://github.com/kjhealy/nycdogs
+[submodule "nycmaps"]
+	path = nycmaps
+	url = https://github.com/kjhealy/nycmaps
+[submodule "nycomplaints"]
+	path = nycomplaints
+	url = https://github.com/kjhealy/nycomplaints
+[submodule "nycroutes"]
+	path = nycroutes
+	url = https://github.com/kjhealy/nycroutes
+[submodule "nyczips"]
+	path = nyczips
+	url = https://github.com/kjhealy/nyczips
 [submodule "socviz"]
 	path = socviz
 	url = https://github.com/kjhealy/socviz

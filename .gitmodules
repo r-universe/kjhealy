@@ -11,6 +11,9 @@
 [submodule "gssrdoc"]
 	path = gssrdoc
 	url = https://github.com/kjhealy/gssrdoc
+[submodule "nycbabynames"]
+	path = nycbabynames
+	url = https://github.com/kjhealy/nycbabynames
 [submodule "nycbuildxwalks"]
 	path = nycbuildxwalks
 	url = https://github.com/kjhealy/nycbuildxwalks
@@ -29,6 +32,9 @@
 [submodule "nycroutes"]
 	path = nycroutes
 	url = https://github.com/kjhealy/nycroutes
+[submodule "nycstreets"]
+	path = nycstreets
+	url = https://github.com/kjhealy/nycstreets
 [submodule "nyczips"]
 	path = nyczips
 	url = https://github.com/kjhealy/nyczips

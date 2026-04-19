@@ -25,7 +25,7 @@
 	url = https://github.com/kjhealy/nycdogs
 [submodule "nychex"]
 	path = nychex
-	url = https://github.com/kjhealy/nycmaps
+	url = https://github.com/kjhealy/nychex
 [submodule "nycmaps"]
 	path = nycmaps
 	url = https://github.com/kjhealy/nycmaps

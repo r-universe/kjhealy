@@ -38,6 +38,9 @@
 [submodule "nycstreets"]
 	path = nycstreets
 	url = https://github.com/kjhealy/nycstreets
+[submodule "nycterrain"]
+	path = nycterrain
+	url = https://github.com/kjhealy/nycterrain
 [submodule "nyczips"]
 	path = nyczips
 	url = https://github.com/kjhealy/nyczips

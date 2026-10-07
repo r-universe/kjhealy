@@ -20,6 +20,9 @@
 [submodule "nycdcm"]
 	path = nycdcm
 	url = https://github.com/kjhealy/nycdcm
+[submodule "nycdemog"]
+	path = nycdemog
+	url = https://github.com/kjhealy/nycdemog
 [submodule "nycdogs"]
 	path = nycdogs
 	url = https://github.com/kjhealy/nycdogs
